@@ -10,4 +10,5 @@ footer
 페이지 구성:
 
 main-html5subpage01.html
+gallery.html
 comunity
